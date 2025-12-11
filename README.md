@@ -9,8 +9,8 @@ The purpose of this project is to understand salary trends based on job roles, e
 
 | File | Description |
 |------|-------------|
-| **AI_Lab_Salary_Analysis.ipynb** | Main Google Colab notebook containing analysis & code |
-| **salaries_cyber.csv** | Dataset used for salary analysis  |
+| **Cyber_Salary_Analysis.ipynb** | Main Google Colab notebook containing analysis & code |
+| **cyber_salary.csv** | Dataset used for salary analysis  |
 | **Graphs Folder** | All visualizations (Histogram, Bar charts, Boxplots) |
 | **Report.docx** | Full professional project report |
 
