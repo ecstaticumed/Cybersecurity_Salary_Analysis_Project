@@ -71,3 +71,16 @@ It explains:
 - Conclusions  
 
 ---
+
+---
+
+## 📬 Contact
+
+**Author:** Umed Ali  
+**Degree:** BS Cyber Security  
+**Linkedin:** inkedin.com/in/ecstaticumed/
+Feel free to reach out or contribute.
+
+---
+
+## ⭐ If you like the project, don’t forget to star the repo!
