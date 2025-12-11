@@ -79,7 +79,6 @@ It explains:
 **Author:** Umed Ali  
 **Degree:** BS Cyber Security  
 **Linkedin:** https://www.linkedin.com/in/ecstaticumed/
-Feel free to reach out or contribute.
 
 ---
 
